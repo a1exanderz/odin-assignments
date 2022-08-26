@@ -1,0 +1,10 @@
+.container {
+  text-align: center;
+  color: red;
+  background-color: yellow;
+}
+
+.text {
+  font-family: Tahoma, sans-serif;
+  font-size: 24px;
+}
